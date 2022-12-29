@@ -1,3 +1,7 @@
-hello
-f
-pull
+git remote add (origin) (url)
+git remote -v
+git remote show (origin) 
+git push -u (origin) (master)
+git remote show (origin)
+git push
+git pull
